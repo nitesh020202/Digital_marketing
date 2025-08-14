@@ -1,5 +1,5 @@
 {
-  "home": "https://nitesh020202.github.io/Digital_marketing/",
+  "homepage": "https://nitesh020202.github.io/Digital_marketing/",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@types/node": "^24.2.1",
